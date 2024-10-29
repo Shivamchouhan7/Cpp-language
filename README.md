@@ -1,2 +1,3 @@
 # Cpp-language
-basic programs of c++ and some examples
+Basic programs of c++ and some examples
+Author Name - Shivam Chouhan
