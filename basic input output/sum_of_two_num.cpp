@@ -2,7 +2,7 @@
 using namespace std;
 // basic sum program for two numbers by taking input from user 
 int main(){
-    int a,b;//defining data type of variables  
+    int a,b;//declayring variables  
     cout<<"Enter 1st number :";
     cin>>a;
     cout<<"Enter 2nd number :";
