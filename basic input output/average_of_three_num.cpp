@@ -2,7 +2,7 @@
 using namespace std;
 // program to find average of three numbers 
 int main(){
-    float a,b,c;
+    int a,b,c;
     cout<<"Enter 1st num:";
     cin>>a;
     cout<<"Enter 2nd num:";
