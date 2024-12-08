@@ -11,6 +11,7 @@ int main(){
         if(element==array[i]){
             flag=1;
             cout<<"Element found at index "<<i<<endl;
+            break;
         }
     }
     cout<<flag;
